@@ -1,0 +1,87 @@
+.body{
+    margin: 0;
+    padding: 0;
+}
+h1,h2,h3,h4,h5,h6,p,a,ul,li{
+    margin: 0;
+    padding: 0;
+
+}
+#Logo-menu{
+     background-color: rgb(29, 28, 28);
+     padding: 12px;
+     overflow: hidden;
+}
+.content{
+    width:1315px;
+    margin: 0 auto;
+
+}
+.Logo{
+    float: left;
+    width: 20%;
+
+}
+.Logo span{
+    color: azure;
+    font-size: 28px;
+    margin-right: 20px;
+}
+
+.menu ul li{
+    list-style: none;
+    float: left;
+    width:65px;
+
+}
+.menu ul li a{
+    text-decoration: none;
+    color:rgb(247, 241, 230) ;
+    margin-left:730px ;
+    padding-right: 5px;
+}
+.overlay{
+   height: 100%;
+   width: 100%;   
+   background-color: rgba(0, 0, 0, 0.6);
+}
+
+.banner-content{
+    text-align: center;
+    padding: 170px 0px;
+    color: rgb(232, 252, 255);
+}
+.banner-content h1{
+    font-size: 44px;
+     
+}
+.banner-content h3{
+    font-size: 32px;
+}
+.button{
+    padding: 20px 20px;
+    width:7%;
+    margin-left: 490px;
+    
+    border-color:rgb(29, 102, 102);
+    border-radius: 6px;
+}
+.button a{
+    text-decoration: none;
+    color: white;
+    font-weight: bold;
+    font-size: 16px;
+}
+.button-2{
+    padding: 20px 20px;
+    width:7%;
+    
+    margin-left: 490px;
+    border-radius: 6px;
+}
+.button-2 a{
+    text-decoration: none;
+    color: white;
+    font-weight: bold;
+    font-size: 16px;
+}
