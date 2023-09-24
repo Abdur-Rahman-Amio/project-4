@@ -41,47 +41,37 @@ h1,h2,h3,h4,h5,h6,p,a,ul,li{
     padding-right: 5px;
 }
 .overlay{
-   height: 100%;
-   width: 100%;   
-   background-color: rgba(0, 0, 0, 0.6);
+   height:100%;
+   width:100%;   
+   background-color:rgba(0, 0, 0, 0.6);
 }
 
 .banner-content{
-    text-align: center;
-    padding: 170px 0px;
-    color: rgb(232, 252, 255);
+    text-align:center;
+    padding:170px 0px;
+    color:rgb(232, 252, 255);
 }
 .banner-content h1{
-    font-size: 44px;
+    font-size:44px;
      
 }
 .banner-content h3{
-    font-size: 32px;
+    font-size:32px;
 }
 .button{
-    padding: 20px 20px;
-    width:7%;
-    margin-left: 490px;
+    padding:25px 20px;
+
     
-    border-color:rgb(29, 102, 102);
-    border-radius: 6px;
 }
-.button a{
-    text-decoration: none;
-    color: white;
-    font-weight: bold;
-    font-size: 16px;
-}
-.button-2{
-    padding: 20px 20px;
-    width:7%;
+.button a {
+    text-decoration:none;
+    margin:10px;
+    border-radius:2px;
+    border:9px solid;
+    font-weight:bold;
+    color:rgb(255, 253, 249);
+    background-color:rgb(54, 68, 82);
     
-    margin-left: 490px;
-    border-radius: 6px;
+
 }
-.button-2 a{
-    text-decoration: none;
-    color: white;
-    font-weight: bold;
-    font-size: 16px;
-}
+    
